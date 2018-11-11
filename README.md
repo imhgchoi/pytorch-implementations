@@ -1,9 +1,12 @@
 # pytorch_implementations
-This repository holds source codes of neural networks implemented with [Pytorch](https://pytorch.org/docs/stable/index.html).<br/>
+This repository holds source codes of machine learning and neural networks implemented with [Pytorch](https://pytorch.org/docs/stable/index.html).<br/>
 
 ## Contents
-1. [Deep Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/DNN)
-2. [Convolutional Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/CNN)
+1. [Gradient Descent](https://github.com/imhgchoi/pytorch_implementations/tree/master/Gradient_Descent) : Not Pytorch -- simple gradient descent with several different conditions.
+2. [Logistic Regression](https://github.com/imhgchoi/pytorch_implementations/tree/master/Logistic_Regression) : Not Pytorch
+3. [Deep Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/DNN)
+4. [Convolutional Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/CNN)
 
-
+<hline>
+  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
