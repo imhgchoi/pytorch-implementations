@@ -1,4 +1,4 @@
-# pytorch_implementations
+# Pytorch Implementation Examples
 This repository holds source codes of machine learning and neural networks implemented with [Pytorch](https://pytorch.org/docs/stable/index.html).<br/>
 
 ## Contents
