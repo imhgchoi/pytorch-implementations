@@ -6,8 +6,8 @@ from DNN.learner import Learner
 if __name__ == '__main__':
     DATA_DIR = 'D:/rawDataFiles/digit_train.csv'
 
-    LEARNING_RATE = 1e-4
-    EPOCHS = 200
+    LEARNING_RATE = 3e-5
+    EPOCHS = 100
     BATCH_SIZE = 3000
 
 
