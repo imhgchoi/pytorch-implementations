@@ -1,5 +1,5 @@
 # Pytorch Implementation Examples
-This repository holds source codes of machine learning and neural networks implemented with [Pytorch](https://pytorch.org/docs/stable/index.html).<br/>
+This repository holds source codes of **machine learning** and **neural networks** implemented with **[Pytorch](https://pytorch.org/docs/stable/index.html)**.<br/>
 
 ## Contents
 1. [Gradient Descent](https://github.com/imhgchoi/pytorch_implementations/tree/master/Gradient_Descent) : Not Pytorch -- simple gradient descent with several different conditions.
