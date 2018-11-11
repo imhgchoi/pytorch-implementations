@@ -7,6 +7,6 @@ This repository holds source codes of machine learning and neural networks imple
 3. [Deep Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/DNN)
 4. [Convolutional Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/CNN)
 
-<hline>
+---
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
