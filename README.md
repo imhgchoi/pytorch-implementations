@@ -6,9 +6,9 @@ Any comments or feedbacks are welcome, email me at imhgchoi@korea.ac.kr <br/>
 ## Contents
 1. [Gradient Descent](https://github.com/imhgchoi/pytorch_implementations/tree/master/Gradient_Descent) : Not Pytorch -- simple gradient descent with several different conditions.
 2. [Logistic Regression](https://github.com/imhgchoi/pytorch_implementations/tree/master/Logistic_Regression) : Not Pytorch
-3. [Deep Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/DNN)
-4. [Convolutional Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/CNN)
-5. [Recurrent Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/RNN) : with LSTM cells
+3. [Deep Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/DNN) : predicting handwritten numbers with MNIST dataset
+4. [Convolutional Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/CNN) : predicting handwritten numbers with MNIST dataset
+5. [Recurrent Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/RNN) : predicting future stock price trend with RNN(LSTM cells)
 
 #### NOTE : All Neural Network Models are built without train/dev/test splits. Models will be prone to overfitting.
 ---
