@@ -10,7 +10,7 @@ Any comments or feedbacks are welcome, email me at imhgchoi@korea.ac.kr <br/>
 4. [Convolutional Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/CNN) : predicting handwritten numbers with MNIST dataset
 5. [Recurrent Neural Networks](https://github.com/imhgchoi/pytorch_implementations/tree/master/RNN) : predicting future stock price trend with RNN(LSTM cells)
 6. [AutoEncoders](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders)
-&nbsp;&nbsp;&nbsp; 6.1 [Feed Forward AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/DNN_AE)
+&nbsp;&nbsp;&nbsp; <br/>6.1 [Feed Forward AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/DNN_AE) : regenerating MNIST images with a feed forward AutoEncoder
 
 #### NOTE : All Neural Network Models are built without train/dev/test splits. Models will be prone to overfitting.
 ---
