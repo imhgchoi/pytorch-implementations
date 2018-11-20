@@ -13,8 +13,7 @@ Any comments or feedbacks are welcome, email me at imhgchoi@korea.ac.kr <br/>
 &nbsp;&nbsp;&nbsp; <br/>6.1 [Feed Forward AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/DNN_AE) : regenerating MNIST images with a feed forward AutoEncoder
 &nbsp;&nbsp;&nbsp; <br/>6.2 [Convolutional AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/CNN_AE) : regenerating MNIST images with a convolutional AutoEncoder
 &nbsp;&nbsp;&nbsp; <br/>6.2 [Beta-Variational AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/CNN_AE) : regenerating MNIST images with a Beta-Variational AutoEncoder <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
- I found it hard to build a vanilla VAE. So I adopted the Beta-VAE with an incremental Beta to help convergence.
+&nbsp;&nbsp;&nbsp; I found it hard to build a vanilla VAE. So I adopted the Beta-VAE with an incremental Beta to help convergence.
 #### NOTE : All Neural Network Models are built without train/dev/test splits. Models will be prone to overfitting.
 ---
   
