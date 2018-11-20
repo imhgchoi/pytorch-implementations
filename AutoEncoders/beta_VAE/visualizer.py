@@ -17,6 +17,6 @@ class Visualizer :
             output = self.model.forward(self.target[i]).view(28,28)
             cat_img = T.cat((self.target[i].view(28,28),output), 1)
             plt.imshow(cat_img.cpu().detach().numpy())
-            plt.title('DNN AutoEncoder target vs output')
+            plt.title('Beta-Variational AutoEncoder target vs output')
             plt.savefig('./output_images/sample'+str(_+1))
             plt.close()
