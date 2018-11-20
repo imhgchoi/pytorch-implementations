@@ -12,8 +12,9 @@ Any comments or feedbacks are welcomed, email me at imhgchoi@korea.ac.kr <br/>
 6. [AutoEncoders](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders)
 &nbsp;&nbsp;&nbsp; <br/>6.1 [Feed Forward AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/DNN_AE) : regenerating MNIST images with a feed forward AutoEncoder
 &nbsp;&nbsp;&nbsp; <br/>6.2 [Convolutional AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/CNN_AE) : regenerating MNIST images with a convolutional AutoEncoder
-&nbsp;&nbsp;&nbsp; <br/>6.2 [Beta-Variational AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/beta_VAE) : regenerating MNIST images with a Beta-Variational AutoEncoder <br/>
+&nbsp;&nbsp;&nbsp; <br/>6.3 [Beta-Variational AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/beta_VAE) : regenerating MNIST images with a Beta-Variational AutoEncoder <br/>
 &nbsp;&nbsp;&nbsp; I found it hard to build a vanilla VAE. So I adopted the Beta-VAE with an incremental Beta to help convergence.
+&nbsp;&nbsp;&nbsp; <br/>6.4 [Sparse AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/sparse_AE) : regenerating MNIST images with a sparse AutoEncoder with 1300 hidden code units .
 #### NOTE : All Neural Network Models are built without train/dev/test splits. Models will be prone to overfitting.
 ---
   
