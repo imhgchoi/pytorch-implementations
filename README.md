@@ -16,6 +16,8 @@ Any comments or feedbacks are welcomed, email me at imhgchoi@korea.ac.kr <br/>
 &nbsp;&nbsp;&nbsp; I found it hard to build a vanilla VAE. So I adopted the Beta-VAE with an incremental Beta to help convergence.
 &nbsp;&nbsp;&nbsp; <br/>6.4 [Sparse AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/sparse_AE) : regenerating MNIST images with a sparse AutoEncoder with 1300 hidden code units.
 &nbsp;&nbsp;&nbsp; <br/>6.5 [Denoising AutoEncoder](https://github.com/imhgchoi/pytorch_implementations/tree/master/AutoEncoders/denoising_AE) : regenerating MNIST images that has gaussian noise with a denoising AutoEncoder.
+7. [Deep Q Network](https://github.com/imhgchoi/pytorch_implementations/tree/master/DQN)
+&nbsp;&nbsp;&nbsp; <br/>7.1 [Feed Forward DQN](https://github.com/imhgchoi/pytorch_implementations/tree/master/DQN/feed_forward) : training Cartpole with an RL feed forward DQN
 #### NOTE : All Neural Network Models are built without train/dev/test splits. Models will be prone to overfitting.
 ---
   
